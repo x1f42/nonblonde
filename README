@@ -1,0 +1,3 @@
+nonblonde is key/data database.  nonblonde databases may feature multiple
+tables, transactions may span tables, keys and data are binary strings.  the
+tables are backed by b-trees that organize their nodes as critical bit trees.
